@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Troco</string>
+
+    <string name="change_result_title">Troco</string>
+    <string name="calculate_change">Calcular troco</string>
+    <string name="amount_paid">Valor pago</string>
+    <string name="bill">Valor devido</string>
+
+    <string formatted="false" name="change_error">O valor pago é inferior ao valor cobrado.</string>
+    <string formatted="false" name="change_result">O troco é de %1$s em</string>
+
+    <plurals formatted="false" name="change_result_banknotes">
+        <item quantity="one">%1$d nota</item>
+        <item quantity="other">%1$d notas</item>
+    </plurals>
+
+    <plurals formatted="false" name="change_result_coins">
+        <item quantity="one">%1$d moeda</item>
+        <item quantity="other">%1$d moedas</item>
+    </plurals>
+
+</resources>
